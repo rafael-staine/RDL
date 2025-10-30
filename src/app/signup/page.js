@@ -12,8 +12,8 @@ import { FaCheckCircle, FaTimesCircle } from 'react-icons/fa';
 const MdxLogo = () => (
   <div className={styles.logo}>
     <Link href='/'>
-      <span className={styles.logo1}>R</span>
-      <span className={styles.logo2}>D</span>
+      <span className={styles.logo1}>D</span>
+      <span className={styles.logo2}>S</span>
       <span className={styles.logo3}>L</span>
     </Link>
   </div>
